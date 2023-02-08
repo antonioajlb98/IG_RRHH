@@ -1,5 +1,6 @@
 ﻿using IGapi.Context;
 using IGapi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace IGapi.Repositories
 {
@@ -23,10 +24,28 @@ namespace IGapi.Repositories
                     return true;
                 }catch(Exception ex)
                 {
-                    throw;
+                    return false;
                 }
             }
             return false;
+        }
+
+        public Offer_ApplicationModel Get(int id)
+        {
+            var aux = new Offer_ApplicationModel();
+            if (db.Orders.FirstOrDefault(c => c.Id == id) != null)
+            {
+                db.Orders.Include(o => o.Candidate).FirstOrDefault(o => o.Id == id);
+                db.Orders.Include(o => o.Offer).FirstOrDefault(o => o.Id == id);
+                aux = db.Orders.FirstOrDefault(c => c.Id == id);
+                
+            }
+            return aux;
+
+        }
+        public List<Offer_ApplicationModel> GetAll()
+        {
+            return db.Orders.ToList();
         }
     }
 }

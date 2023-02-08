@@ -31,7 +31,7 @@ namespace IGapi.Controllers
         }
 
         [HttpPost("Insert")]
-        public bool Insert([FromBody] CandidateDto candidate)
+        public bool Insert([FromForm] CandidateDto candidate)
         {
             return candidateServ.Insert(candidate);
         }

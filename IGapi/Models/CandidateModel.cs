@@ -1,7 +1,6 @@
 ﻿using IGapi.Dtos;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel;
 
 namespace IGapi.Models
 {
@@ -28,13 +27,15 @@ namespace IGapi.Models
         public CandidateDto ParseToDto()
         {
             return new CandidateDto 
-            {   Id = Id,
+            {   
+                Id = Id,
                 Name = Name,
                 Dni = Dni,
                 Gender = Gender,
                 Birthdate = Birthdate,
                 Mail = Mail,
-                Password = Password 
+                Password = Password
+                
             };
         }
     }

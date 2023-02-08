@@ -22,7 +22,7 @@ namespace IGapi.Controllers
             return offerService.GetAll();
         }
 
-        [HttpGet("Get/{id}")]
+        [HttpGet("GetById/{id}")]
         public OfferDto Get(int id)
         {
             return offerService.GetById(id);

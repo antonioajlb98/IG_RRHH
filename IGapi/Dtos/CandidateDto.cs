@@ -21,11 +21,13 @@ namespace IGapi.Dtos
         public string Mail { get; set; }
         [Required]
         public string Password { get; set; }
+        public List<CreateOfferApplicationDto>? Applications { get; set; }
 
         public CandidateModel ParseToModel()
         {
-            return new CandidateModel 
-            {   Id = Id,
+            return new CandidateModel
+            {
+                Id = Id,
                 Name = Name,
                 Dni = Dni,
                 Gender = Gender,

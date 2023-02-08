@@ -17,11 +17,9 @@ namespace IGapi.Models
         public string? Description { get; set; }
         [DefaultValue("false")]
         public bool IsAccepted { get; set; }
-        [ForeignKey("Id_Candidate")]
-        public int? Id_Candidate { get; set; }
+        [ForeignKey("CandidateId")]
         public virtual CandidateModel? Candidate { get; set; }
-        [ForeignKey("id_Oferta")]
-        public int? Id_Oferta { get; set; }
+        [ForeignKey("OfferId")]
         public virtual OfferModel? Offer { get; set; }
 
 
@@ -34,8 +32,6 @@ namespace IGapi.Models
                 Assignment_Date = Assignment_Date,
                 Description= Description,
                 IsAccepted = IsAccepted,
-                Id_Candidate = Id_Candidate,
-                Id_Oferta= Id_Oferta,
                 Candidate=Candidate.ParseToDto(),
                 Offer=Offer.ParseToDto(),
             };
