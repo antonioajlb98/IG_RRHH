@@ -1,164 +1,246 @@
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\appsettings.json
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\IGapi.exe
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\IGapi.deps.json
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\IGapi.runtimeconfig.json
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\IGapi.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\IGapi.pdb
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Humanizer.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.csproj.AssemblyReference.cache
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.AssemblyInfoInputs.cache
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.AssemblyInfo.cs
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.csproj.CoreCompileInputs.cache
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\staticwebassets\msbuild.IGapi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\staticwebassets\msbuild.build.IGapi.props
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IGapi.props
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IGapi.props
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\scopedcss\bundle\IGapi.styles.css
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.csproj.CopyComplete
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\refint\IGapi.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.pdb
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\IGapi.genruntimeconfig.cache
-C:\Users\Antonio J\source\repos\IGapi\IGapi\obj\Debug\net7.0\ref\IGapi.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\appsettings.json
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\IGapi.exe
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\IGapi.deps.json
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\IGapi.runtimeconfig.json
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\IGapi.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\IGapi.pdb
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Humanizer.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.csproj.AssemblyReference.cache
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.AssemblyInfoInputs.cache
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.AssemblyInfo.cs
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.csproj.CoreCompileInputs.cache
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\staticwebassets\msbuild.IGapi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\staticwebassets\msbuild.build.IGapi.props
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IGapi.props
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IGapi.props
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\scopedcss\bundle\IGapi.styles.css
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.csproj.CopyComplete
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\refint\IGapi.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.pdb
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\IGapi.genruntimeconfig.cache
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\obj\Debug\net7.0\ref\IGapi.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Web.Cors.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Web.Http.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\System.Web.Http.Cors.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\Antonio J\source\repos\IGapi\IGapi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Web.Cors.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Web.Http.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\System.Web.Http.Cors.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\Antonio J\Source\Repos\IG_RRHH\IGapi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/appsettings.json
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/IGapi.exe
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/IGapi.deps.json
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/IGapi.runtimeconfig.json
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/IGapi.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/IGapi.pdb
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.csproj.AssemblyReference.cache
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.AssemblyInfoInputs.cache
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.AssemblyInfo.cs
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.csproj.CoreCompileInputs.cache
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.IGapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.build.IGapi.props
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.IGapi.props
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.IGapi.props
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/scopedcss/bundle/IGapi.styles.css
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.csproj.CopyComplete
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/refint/IGapi.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.pdb
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/IGapi.genruntimeconfig.cache
+C:/Users/Antonio J/source/repos/IGapi/IGapi/obj/Debug/net7.0/ref/IGapi.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/appsettings.json
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi.exe
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi.deps.json
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi.runtimeconfig.json
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi.pdb
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.csproj.AssemblyReference.cache
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.AssemblyInfoInputs.cache
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.AssemblyInfo.cs
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.csproj.CoreCompileInputs.cache
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.IGapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.build.IGapi.props
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.IGapi.props
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.IGapi.props
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/scopedcss/bundle/IGapi.styles.css
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.csproj.CopyComplete
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/refint/IGapi.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.pdb
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.genruntimeconfig.cache
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/obj/Debug/net7.0/ref/IGapi.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Web.Cors.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Net.Http.Formatting.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Web.Http.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/System.Web.Http.Cors.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/Antonio J/source/repos/IGapi/IGapi/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Web.Cors.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Net.Http.Formatting.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Web.Http.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/System.Web.Http.Cors.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/Antonio J/Source/Repos/IG_RRHH/IGapi/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/appsettings.Development.json
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/appsettings.json
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi.deps.json
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi.runtimeconfig.json
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/IGapi.pdb
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Azure.Core.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Azure.Identity.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Humanizer.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Web.Cors.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Net.Http.Formatting.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Web.Http.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Web.Http.Cors.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.CodeDom.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Memory.Data.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.csproj.AssemblyReference.cache
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.AssemblyInfoInputs.cache
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.AssemblyInfo.cs
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.csproj.CoreCompileInputs.cache
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.MvcApplicationPartsAssemblyInfo.cs
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.MvcApplicationPartsAssemblyInfo.cache
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.IGapi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.build.IGapi.props
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.IGapi.props
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.IGapi.props
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets.pack.json
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets.build.json
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/staticwebassets.development.json
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/scopedcss/bundle/IGapi.styles.css
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.csproj.CopyComplete
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/refint/IGapi.dll
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.pdb
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/IGapi.genruntimeconfig.cache
+/home/juanmirivas8/Desktop/IG_RRHH/IGapi/obj/Debug/net7.0/ref/IGapi.dll

@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\IGapi.props" />
+  <Import Project="../buildMultiTargeting/IGapi.props" />
 </Project>
